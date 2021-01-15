@@ -1,5 +1,7 @@
 <h1 align='center'>RTEST - TESTING FRAMEWORK</h1>
-<p align='center'><img src='https://image.freepik.com/free-vector/hand-drawn-checklist-background_23-2148070711.jpg' /></p>
+
+<p align='center'><img src='https://image.freepik.com/free-vector/hand-drawn-checklist-background_23-2148070711.jpg' height = 400 /></p>
+
 **RTEST** is a testing framework for javascript files. It is implemented in javascript and it follows a tree structure for searching the test files. This framework will only work for test files with ```.test.js``` extension.
 
 ### Installation
