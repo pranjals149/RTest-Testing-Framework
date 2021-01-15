@@ -1,6 +1,6 @@
 <h1 align='center'>RTEST - TESTING FRAMEWORK</h1>
 <p align='center'><img src='https://image.freepik.com/free-vector/hand-drawn-checklist-background_23-2148070711.jpg' /></p>
-<strong>RTEST</strong> is a testing framework for javascript files. It is implemented in javascript and it follows a tree structure for searching the test files. <strong>This framework will mainly work for test files having extensions as ```.test.js```.</strong>
+<strong>RTEST</strong> is a testing framework for javascript files. It is implemented in javascript and it follows a tree structure for searching the test files. **This framework will mainly work for test files having extensions as ```.test.js```**
 
 ### Installation
 Install this framework by typing the following command - ```npm i rtest```.
