@@ -14,4 +14,7 @@ Steps to install this framework -
 ### Usage
 After installing open your terminal and just type ```rtest``` to run the framework. It will search for test files having extensions as ```.test.js``` in the whole directory and perform testing on it.
 
+### Screenshot
+<img src='./RTEST.gif' />
+
 **Warning - Only use this framework on a trustable directory. Avoid using this on a untrustable source (i.e the files downloaded from the internet.)**
