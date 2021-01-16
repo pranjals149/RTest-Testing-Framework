@@ -5,7 +5,10 @@
 **RTEST** is a testing framework for javascript files. It is implemented in javascript and it follows a tree structure for searching the test files. This framework will only work for test files with ```.test.js``` extension.
 
 ### Installation
-Install this framework by typing the following command - ```npm i rtest```.
+Steps to install this framework - 
+1. Clone this repo. - ```git clone https://github.com/pranjals149/RTest-Testing-Framework.git```
+2. After cloning this repo. you can use this framework anywhere on your system.
+3. Remember to use this framework only on a trustable source.
 
 ### Usage
 After installing open your terminal and just type ```rtest``` to run the framework. It will search for test files having extensions as ```.test.js``` in the whole directory and perform testing on it.
