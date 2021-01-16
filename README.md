@@ -7,7 +7,8 @@
 ### Installation
 Steps to install this framework - 
 1. Clone this repo. - ```git clone https://github.com/pranjals149/RTest-Testing-Framework.git```
-2. After cloning this repo. you can use this framework anywhere on your system.
+2. After cloning this repo. install the dependencies used in the project by typing ```npm i``` in your terminal. 
+3. Now, you can use this framework anywhere on your system.
 3. Remember to use this framework only on a trustable source.
 
 ### Usage
