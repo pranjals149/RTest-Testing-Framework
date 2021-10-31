@@ -1,19 +1,35 @@
 {
   "name": "rtest",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.5.1",
+  "description": "Testing framework for javascript, nodejs, and browsers",
   "main": "app.js",
   "dependencies": {
     "chalk": "^4.1.0",
+    "err": "^2.1.12",
     "jsdom": "^16.4.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranjals149/RTest-Testing-Framework.git"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "Framework",
+    "rtest",
+    "assertion",
+    "assert"
+  ],
+  "author": "Pranjal Srivastava",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranjals149/RTest-Testing-Framework/issues"
+  },
+  "homepage": "https://github.com/pranjals149/RTest-Testing-Framework#readme",
   "bin": {
     "rtest": "app.js"
   }
